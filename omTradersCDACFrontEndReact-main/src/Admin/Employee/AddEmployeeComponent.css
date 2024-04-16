@@ -1,0 +1,71 @@
+/* AddEmployeeComponent.css */
+
+.my-form-container {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .my-form-container .header {
+    padding: 20px;
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .my-form-container h2 {
+    margin: 0;
+  }
+  
+  .my-form-container .form {
+    padding: 20px;
+  }
+  
+  .my-form-container label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .my-form-container input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .my-form-container button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .my-form-container button:hover {
+    background-color: #45a049;
+  }
+  
+  .my-form-container .cancel-button {
+    margin-left: 10px;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #e74c3c;
+    border-radius: 4px;
+  }
+  
+  .my-form-container .cancel-button:hover {
+    background-color: #c0392b;
+  }
+
+  .textbox{
+    color:black;
+  }
